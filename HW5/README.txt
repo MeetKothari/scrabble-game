@@ -1,5 +1,3 @@
-Contact Info: meet_kothari@student.uml.edu
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This write-up contains some of my sources (most of them are embedded in the code itself) and an in-depth look at what features work, partially work, and don't work at all.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
